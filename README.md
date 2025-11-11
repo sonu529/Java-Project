@@ -1,3 +1,4 @@
+<img width="1804" height="947" alt="Screenshot 2025-11-11 144913" src="https://github.com/user-attachments/assets/0f948fac-ec0e-4ed7-ad17-783ba6067eae" />
 # Student Registration System
 
 A simple console-based student registration system built in Java using Maven.
@@ -46,3 +47,4 @@ StudentRegistrationSystem/
 ## Usage
 
 The application provides a menu-driven interface for managing student registrations. Follow the on-screen prompts to perform various operations.
+
